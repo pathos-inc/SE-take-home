@@ -1,4 +1,4 @@
-# Pathos — Senior Engineer Take-Home Exercise
+# Pathos — Engineering Take-Home Exercise
 
 Welcome, and thank you for investing time in our process.
 
@@ -150,7 +150,7 @@ npm test                # tests should pass (that's part of the problem)
 1. Clone it — keep the full history, you'll want it
 2. Create a new **private** repository under your own GitHub account
 3. Push everything to it (all branches, all history)
-4. Invite `jrdavison` and `Faisalnwz01` as collaborators
+4. Invite `jrdavison`, `Faisalnwz01`, and `eganbisma` as collaborators
 5. Send us the link
 
 **A submission in a public repository — including a public fork — is an automatic disqualification.** Public submissions expose this exercise's answers to every candidate who comes after you, which ruins the take-home for everyone. If you fork by accident or push somewhere public, delete it and follow the steps above before submitting — we only review what you send us.
